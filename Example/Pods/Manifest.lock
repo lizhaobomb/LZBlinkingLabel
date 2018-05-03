@@ -1,0 +1,16 @@
+PODS:
+  - LZBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - LZBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  LZBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZBlinkingLabel: 44e216df5cb7ed1f2a310e942d12a0d18c2517e6
+
+PODFILE CHECKSUM: 9cb0e581ee9ecacb6488f41784af7b1c30ed56c5
+
+COCOAPODS: 1.5.0

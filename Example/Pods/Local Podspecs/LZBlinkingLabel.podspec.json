@@ -1,0 +1,22 @@
+{
+  "name": "LZBlinkingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of LZBlinkingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lizhaobomb/LZBlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizhaobomb": "lizhaobomb@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lizhaobomb/LZBlinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LZBlinkingLabel/Classes/**/*"
+}
